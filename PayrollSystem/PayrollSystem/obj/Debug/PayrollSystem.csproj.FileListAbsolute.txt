@@ -1,0 +1,35 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12S\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_12F\Deitel\Examples\ch12\Fig12_04_09\PayrollSystem\PayrollSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_12F\Demos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_12F\Demos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_12F\Demos\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_12F\Demos\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_12F\Demos\PayrollSystem\PayrollSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Demo\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Demo\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Demo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Demo\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Demo\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_14F\Exams\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\a0haws01\Desktop\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\a0haws01\Desktop\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\a0haws01\Desktop\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\a0haws01\Desktop\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\a0haws01\Desktop\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\MAX MAN\Desktop\portfolio\CIS199\PayrollSystem\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\MAX MAN\Desktop\portfolio\CIS199\PayrollSystem\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
+C:\Users\MAX MAN\Desktop\portfolio\CIS199\PayrollSystem\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\MAX MAN\Desktop\portfolio\CIS199\PayrollSystem\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\MAX MAN\Desktop\portfolio\CIS199\PayrollSystem\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
